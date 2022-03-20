@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KimSinHeung&fontSize=90)
 
+
 <div align="center">
 <h3>👧🏻세상에서 제일 재밌는 고등학교 생활 보내기👧🏻</h3>
 </div>
+
 
 <div align="center">
 <h2>✨My Skills✨</h2>
