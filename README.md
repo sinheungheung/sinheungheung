@@ -2,11 +2,6 @@
 
 
 <div align="center">
-<h3>👧🏻세상에서 제일 재밌는 고등학교 생활 보내기👧🏻</h3>
-</div>
-
-
-<div align="center">
 <h2>✨My Skills✨</h2>
   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
