@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<h2😻Me😻</h2>
+<h2😻Me😻</
   
 <a href="https://www.instagram.com/_ksh.e/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ksh.e/"/></a>
 </div>
