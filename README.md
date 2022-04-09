@@ -1,10 +1,1 @@
-![header](https://capsule-render.vercel.app/api?section=header&text=HelloWorld!&fontSize=30)
-
-
-<div align="center">  
-<h1>Mirim Meister</h1>
-<h2>☆⌒Me👧🏻</h2>
-  
-<a href="https://www.instagram.com/_ksh.e/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/k.issout/"></a>
-</div>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsinheungheung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
