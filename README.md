@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FF3399&height=200&section=header&text=KimSinHeung&fontSize=90)
+![header](https://capsule-render.vercel.app/api?section=header&text=Hello World!&fontSize=50)
 
 
 <div align="center">  
