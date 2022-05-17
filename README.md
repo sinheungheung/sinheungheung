@@ -2,5 +2,6 @@
 #### sns*:･ﾟ✧
 ### <a href="https://www.instagram.com/hlneung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hlneung/"/></a>
  <p align="center">
-![KakaoTalk_20220518_011054307](https://user-images.githubusercontent.com/80873447/168859920-6c7e3442-be34-4a86-b96e-a2a046546ddf.jpg)
+ ![지하철 내이름](https://user-images.githubusercontent.com/80873447/168860589-5900ccd3-35f9-42e8-a534-e7a8c00a0b34.jpg)
+
  </p>
