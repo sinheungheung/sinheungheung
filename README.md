@@ -1,12 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3399&size=20&multiline=true&width=600&height=30&lines=Hello+I'm+SinHeung!)](https://git.io/typing-svg)
+<div align="center">
 
-## 너무너무 쉬운 Quiz✨
-### "신흥역"은 8호선이다 vs 1호선이다!? 
+![header](https://capsule-render.vercel.app/api?type=egg&color=FFFF00&height=200&section=header&text=Hello,&nbsp;I'm&nbsp;SinHeung✌️&fontSize=50)
 
-  
-![내사진](https://user-images.githubusercontent.com/80873447/168865047-c7d0dcde-6ce2-48c9-bb20-59dbf6e01e97.png)
+<img width="247" alt="병아리-removebg-preview" src="https://user-images.githubusercontent.com/80873447/191020390-9b0f76d7-28fe-4582-acf4-953cc438dc10.png">
+<img width="416" alt="cloud" src="https://user-images.githubusercontent.com/80873447/191023668-a18b22b7-af3f-4255-a51a-50b76946b1b0.png">
 
-
-## 정답을 아는 사람은 신흥이에게 디엠을 보내주세요!
-### 👉🏻 <a href="https://www.instagram.com/hlneung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hlneung/"/></a> 👈🏻
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=egg&color=FFFF00&height=200&section=footer)
+</div>
