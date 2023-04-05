@@ -15,5 +15,5 @@
 **저의 Social Media입니다**</br>
 
 <a href="https://www.instagram.com/heungyomi/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a>
-<a href="https://resolute-cent-2ac.notion.site/nandananadaHeung-Flexible-Developer-4f3d0f42c57240a8bd253c7fc58b8fe7"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a><br><br><br>
+
 
