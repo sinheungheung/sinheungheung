@@ -6,10 +6,7 @@
 ![Footer](https://capsule-render.vercel.app/api?type=egg&color=FFFF00&height=200&section=footer)
 </div>
 
-<h3>반갑습니다👋🏻</br></h3>
-<h4>제 이름은 김신흥입니다</br>
-<b>흥😆</b>과 <b>열정✏️</b>을 가지고 백엔드를 공부하고 있습니다</br>
-현재 미림여자정보과학고등학교에 재학중이며 뭐든 <b>끈기✊🏻</b>있게 하루하루를 알차게 보내고 있습니다!</h4>
+
 
 
 
